@@ -1,0 +1,9 @@
+Installation :
+1. Access Extension > Installer
+2. Upload file myz_currency.ocmod.zip
+3. Access Extension > Extension, then select "Modules".
+4. Search for Myz Currency > Press the install button.
+5. Click Edit Button and make sure the Status is Enabled. After that, click Save Button.
+6. Done.
+
+Every day will be synchronized for each currency.
